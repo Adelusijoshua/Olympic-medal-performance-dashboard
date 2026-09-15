@@ -95,12 +95,13 @@ All pages support global **Country Name** and **Year** filters.
 ## 📁 Repository Contents
  
 ```
-├── Olympic_Games_Dashboard.pbix     # Power BI source file
-├── Olympic_Games_Dashboard.pdf      # Exported PDF walkthrough of the dashboard
 ├── 01-overview.png                  # Dashboard screenshot — Overview
 ├── 02-country-analysis.png          # Dashboard screenshot — Country Analysis
 ├── 03-sport-intelligence.png        # Dashboard screenshot — Sport Intelligence
 ├── 04-athletes-analysis.png         # Dashboard screenshot — Athletes Analysis
+├── Olympic_Games.xlsx               # Excel Source file
+├── Olympic_Games.pbix               # Power BI source file
+├── Olympic_Games.pdf                # Exported PDF walkthrough of the dashboard
 └── README.md                        # Project documentation (this file)
 ```
  
